@@ -6,4 +6,4 @@ pub const PUZZLE_DESCRIPTION: &str = r#"Alice designed an authentication system 
 One day, Alice discovered 256 of these signatures were leaked publicly, but the secret key wasn't. Phew.
 The next day, she found out someone accessed her system with a username she doesn't know! This shouldn't be possible due to existential unforgeability, as she never signed such a message.
 
-Can you find out how it happend and produce a signature on your username?"#;
+Can you find out how it happened and produce a signature on your username?"#;
